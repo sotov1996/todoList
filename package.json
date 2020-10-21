@@ -1,0 +1,24 @@
+{
+  "name": "apptodos",
+  "version": "1.0.0",
+  "description": "Mern stack",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "server": "nodemon app.js"
+  },
+  "keywords": [
+    "mern",
+    "react"
+  ],
+  "author": "Sotov <ilyapoliana@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
